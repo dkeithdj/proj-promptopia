@@ -1,11 +1,10 @@
 import "@styles/globals.css";
 import Nav from "@components/Nav";
-import Proider from "@components/Provider";
 import Provider from "@components/Provider";
 
 export const metadata = {
-  title: "Promptopia",
-  description: "Discover & Share AI Prompts",
+  title: "D-Notes",
+  description: "Simple Note Website",
 };
 
 const RootLayout = ({ children }) => {
